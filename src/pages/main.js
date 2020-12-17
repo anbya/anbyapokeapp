@@ -369,7 +369,7 @@ class main extends Component {
                                                         //     },
                                                         // }}
                                                         // For tests
-                                                        rootProps={{ 'data-testid': '2' }}
+                                                        rootProps={{ 'data-testid': '3' }}
                                                     />
                                                 </Card.Body>
                                             </Card>
